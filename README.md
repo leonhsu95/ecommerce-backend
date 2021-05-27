@@ -37,7 +37,9 @@ npm i nodemon
 npm i sequelize
  ```
 
- Before you run the code, please change scripts:{start: } to 'node server.js' in the package.json and change your database login credentials in the .env file.
+ Before you run the code, please change scripts:{start: } to 'node server.js' in the package.json file and change your database login credentials in the .env file.
+
+ It is highly encouraged to install [Insomnia](https://insomnia.rest/), [MySQL](https://www.mysql.com/products/community/) and [MySQL Workbench](https://dev.mysql.com/downloads/workbench/) for RESTful API and Database functionalities to work.
 
 ## Usage
 
@@ -76,8 +78,10 @@ SOFTWARE.
 
 ## Tests
 
-This project can be tested with [JS Validation Service](https://jshint.com/).
-
+This project can be tested with [JS Validation Service](https://jshint.com/). The [Insomnia](https://insomnia.rest/) Design and API Client 
+is used to test these functionalities as it can GET, POST, PUT and DELETE Data from the given URL without Front End UI Buttons or Designs.
+You will also require [MySQL](https://www.mysql.com/products/community/) and [MySQL Workbench](https://dev.mysql.com/downloads/workbench/) for
+this application's database.
 
 
 
