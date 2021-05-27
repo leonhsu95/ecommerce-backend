@@ -41,6 +41,11 @@ npm i sequelize
 
  It is highly encouraged to install [Insomnia](https://insomnia.rest/), [MySQL](https://www.mysql.com/products/community/) and [MySQL Workbench](https://dev.mysql.com/downloads/workbench/) for RESTful API and Database functionalities to work.
 
+## Credits
+
+The initial template for the backend is created by University of Sydney and Trilogy Education.
+All other codes and functionalities are developed by Leon Hsu [leonhsu95](https://github.com/leonhsu95)
+
 ## Usage
 
 The project should look like this:
