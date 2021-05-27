@@ -24,7 +24,7 @@ To install the files into your local repo, using Git Bash Terminal:
 git clone git@github.com:leonhsu95/ecommerce-backend.git"
  ```
 
-Additionally, please install node.js and install the inquirer package in your terminal with
+Additionally, please install [NodeJS](https://nodejs.org/en/) and the below npm packages
 
 ```Terminal Commands
 npm i init -y
