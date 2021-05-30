@@ -51,7 +51,7 @@ All other codes and functionalities are developed by Leon Hsu [leonhsu95](https:
 The project should look like this:
 ![Application Screenshot](assets/screenshots/screenshot.png)
 
-A Video Demonstration can be viewed here: [Demo]()
+A Video Demonstration can be viewed here: [Demo](https://drive.google.com/file/d/1aOOVFQlhTpIUwd2lXcvvwquAuAN-76Ws/view?usp=sharing)
 
 Usage of this project is subject to the below license.
 
