@@ -52,7 +52,7 @@ router.put('/:tag_id', async (req, res) => {
   try {
     const tagData = await Tag.update({
       where: {
-        id: req.params.tag_id,
+        tag_id: req.params.tag_id,
       },
     });
 
@@ -72,7 +72,7 @@ router.delete('/:tag_id', async (req, res) => {
   try {
     const tagData = await Tag.destroy({
       where: {
-        id: req.params.tag_id,
+        tag_id: req.params.tag_id,
       },
     });
 
